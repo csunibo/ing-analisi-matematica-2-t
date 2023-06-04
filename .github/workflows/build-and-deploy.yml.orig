@@ -78,9 +78,6 @@ jobs:
       - name: Update packages and install rsync
         run: sudo apt install rsync
 
-      - name: Recursively compile xopp files
-        run: rec "\.xopp$" /usr/bin/xopp2pdf
-
       - name: Generate static directory listing
         run: $(go env GOPATH)/bin/statik -page .github/workflows/page.gohtml -l -b "https://${{ github.event.repository.owner.name }}.github.io/${{ github.event.repository.name }}/" -i "$REGEX_INCLUDE" site
 
