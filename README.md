@@ -1,11 +1,11 @@
-# \<Insegnamento\>
+# Analisi matematica T-2 (27993)
 
-Una raccolta di risorse per l'insegnamento di \<Insegnamento\> del Corso di
-Laurea in Informatica.
+Una raccolta di risorse per l'insegnamento di Analisi matematica T-2
+del Corso di Laurea in Ingegneria informatica.
 
 ## Presentazione
 
-[Questo sito](https://csunibo.github.io/<insegnamento>) elenca staticamente
+[Questo sito](https://csunibo.github.io/ing-analisi-matematica-2-t) elenca staticamente
 i contenuti della raccolta. Qui, documenti e presentazioni con estensione
 `.md`, `.tex`, `.doc`, `.docx`, `.ppt` o `.pptx` sono automaticamente
 convertiti in formato PDF.
